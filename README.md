@@ -37,7 +37,7 @@ workstyle
 ```
 
 ```
-workspace --help
+workstyle --help
 ```
 will give you some more context.
 
